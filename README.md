@@ -4,6 +4,8 @@
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://github.com/Solido/awesome-flutter)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow.svg)](https://www.buymeacoffee.com/devorbiter) 
 
+This is a copy of the official [drag_and_drop_gridview](https://pub.dev/packages/drag_and_drop_gridview) package. I copied it just to adjust few things and use it. I have no intention of making any type of profit out of this code-source.
+
 Drag And Drop GridView extends the functionality of the GridView widget in Flutter and gives you the freedom of creating a reorder the GridViewItems simple by Drag And Drop. It is super easy to implement and beautiful to use.
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
